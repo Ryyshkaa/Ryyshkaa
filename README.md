@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 Means of communication with me:
-<p><a href='t.me/ryyshkaa'>Telegram</p>
+<p><a href='https://t.me/ryyshkaa'>Telegram</p>
 [Instagram](https://www.instagram.com/ryyshkaa/)
