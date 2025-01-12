@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 Means of communication with me:
-p [Telegram](t.me/ryyshkaa)
-p [Instagram](https://www.instagram.com/ryyshkaa/)
+[Telegram](t.me/ryyshkaa)
+[Instagram](https://www.instagram.com/ryyshkaa/)
