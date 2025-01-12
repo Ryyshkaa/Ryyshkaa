@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rostislav
+h1 Hi 👋, I'm Rostislav
 <!--
 **Ryyshkaa/Ryyshkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
