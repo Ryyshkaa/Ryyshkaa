@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Means of communication with me:
+[Telegram](t.me/ryyshkaa)
+[Instagram](https://www.instagram.com/ryyshkaa/)
