@@ -2,7 +2,7 @@
 
 <div class='One'>
     <h3>Languages and Tools:</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,ps,pycharm,py,vscode,webstorm" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,ps,pycharm,py,vscode,webstorm" />
 </div>
 
 <div class='Two'>
